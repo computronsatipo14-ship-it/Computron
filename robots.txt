@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://computron-cetprosatipo.com/sitemap.xml
